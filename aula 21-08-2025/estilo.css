@@ -1,0 +1,45 @@
+/*seletor de elementos*/
+p{
+    color: rgb(0, 0, 0);
+}
+
+h1 
+{
+    color: rgb(0, 0, 0);
+}
+
+/*seletor de id*/
+#palmeiras
+{
+text-align: justify;
+color: rgb(0, 0, 0);
+}
+
+/*SELETORES*/
+.myclass
+{
+
+    /*background-color: brown;*/ 
+    border-style: justify;
+    background-color: rgb(255, 255, 255);
+    border-style: inset;
+    border-color: black;
+    
+}
+
+/*junção de seletores*/
+li.myclass{
+    font-size: 20-large;
+}
+.myclass{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text-cores{
+    padding: 2%;
+    background-color: rgb(54, 221, 12);
+
+}
