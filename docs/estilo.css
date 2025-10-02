@@ -30,7 +30,6 @@ body {
     flex-wrap: wrap; /* Permite quebra em telas pequenas */
     align-items: center;
     justify-content: center;
-    gap: 20px; /* Espaço entre foto e informações */
     padding: 20px;
 }
 
@@ -144,5 +143,6 @@ body {
     .nav-menu {
         flex-direction: column; /* Menu vertical */
     }
+
 
 }
