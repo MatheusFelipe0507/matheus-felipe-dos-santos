@@ -134,7 +134,7 @@ body {
 
 /* ===================== */
 /* Responsividade para dispositivos menores */
-@media (max-width: 768px) {
+ (max-width: 768px) {
     .header-flex {
         flex-direction: column; /* Empilha imagem e info */
         text-align: center;
@@ -146,3 +146,4 @@ body {
 
 
 }
+
